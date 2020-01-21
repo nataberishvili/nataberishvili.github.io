@@ -13,10 +13,12 @@ For this project I use Medicare Provider Utilization and Payment Data for more t
 
 For more details code can be found here [GitHub Flavored Markdown](https://github.com/nataberishvili/k_means_clustering_R_medicare).
 
-### Predicting Loan Default
+### Predicting Loan Default - Binary Classification
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nataberishvili/nataberishvili.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+For this project I specifically focus less on feature engineering and use a small dataset. The main purpose is to build supervised machine learning models with h2o and experiment with hyperparameters.
+For more details code can be found here [GitHub Flavored Markdown](https://github.com/nataberishvili/h2o_rf_gbm_stacked_ensambles_loan_default/blob/master/h2o-rf-gbm-stacked.ipynb).
 
-### Project 3
+### Explain Loan Probability of Default With SHAP Values
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Some models are easy to interpret such as linear / logistic regression (weight on each feature, knowing the exact contribution and negative and positive interaction), single decision trees, some models are harder to interpret such as Ensemble models - it is hard to understand the role of each feature, it comes with "feature importance" but does not tell if feature affects decision positively or negatively
+[GitHub Flavored Markdown](https://github.com/nataberishvili/explain_loan_probabiity_of_default/blob/master/SHAP_VALUES_NATA.ipynb) 
