@@ -3,29 +3,32 @@
 This portfolio is a collection of notebooks which I created for data analysis and machine learning projects for academic, self learning, and hobby purposes.
 
 
-### Exploratory Data Analysis - Medicare
+## Exploratory Data Analysis - Medicare
 
 For this project I use Medicare Provider Utilization and Payment Data for more than 3,000 U.S. hospitals that receive Medicare paments. I explore and visualize data to make comparisons between individual hospital-level charges and payments within local markets, and nationwide. (#R #dplyr #ggplot2)
+- allala
+- lalalal
+**lalaaaa**
+`usstates1 <- payment %>%
+  group_by(Provider.State) %>% filter(Year == 2017) %>%
+  summarize(totalcost = sum(Average.Covered.Charges, na.rm =TRUE))%>%
+  mutate(percent = (totalcost/sum(totalcost))*100)%>%
+  arrange(desc(totalcost))`
 
 ```markdown
-Syntax highlighted code block
+usstates1 <- payment %>%
+  group_by(Provider.State) %>% filter(Year == 2017) %>%
+  summarize(totalcost = sum(Average.Covered.Charges, na.rm =TRUE))%>%
+  mutate(percent = (totalcost/sum(totalcost))*100)%>%
+  arrange(desc(totalcost))
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://github.com/nataberishvili/k_means_clustering_R_medicare).
+For more details code can be found here [GitHub Flavored Markdown](https://github.com/nataberishvili/k_means_clustering_R_medicare).
 
 ### Jekyll Themes
 
