@@ -11,7 +11,7 @@ For this project I use Medicare Provider Utilization and Payment Data for more t
 - Which States and Hospitals charge the most? etc.
 
 
-For more details code and project pdf can be found here [GitHub Flavored Markdown
+For more details code and project pdf can be found here [GitHub Flavored Markdown] 
 (https://github.com/nataberishvili/k_means_clustering_R_medicare).
 
 ### Predicting Loan Default
