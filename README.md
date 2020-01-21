@@ -3,9 +3,9 @@
 This portfolio is a collection of notebooks which I created for data analysis and machine learning projects for academic, self learning, and hobby purposes.
 
 
-### Markdown
+### Exploratory Data Analysis - Medicare
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+For this project I use Medicare Provider Utilization and Payment Data for more than 3,000 U.S. hospitals that receive Medicare paments. I explore and visualize data to make comparisons between individual hospital-level charges and payments within local markets, and nationwide. (#R #dplyr #ggplot2)
 
 ```markdown
 Syntax highlighted code block
@@ -25,7 +25,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see [GitHub Flavored Markdown](https://github.com/nataberishvili/k_means_clustering_R_medicare).
 
 ### Jekyll Themes
 
