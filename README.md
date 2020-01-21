@@ -5,9 +5,11 @@ This portfolio is a collection of notebooks which I created for data analysis an
 
 ### Exploratory Data Analysis - Medicare
 
-For this project I use Medicare Provider Utilization and Payment Data for more than 3,000 U.S. hospitals that receive Medicare paments. I explore and visualize data to make comparisons between individual hospital-level charges and payments within local markets, and nationwide. 
+For this project I use Medicare Provider Utilization and Payment Data for more than 3,000 U.S. hospitals that receive Medicare paments. I explore and visualize data to make comparisons between the individual hospital-level charges and payments within local markets, and nationwide. 
+
 - Which Diagnostic Related Groups cost Medicare the most?
-- Which Diagnosis Related Groups are the most common within last 3 years? Is there any trend?
+- What are the most commong hospital discharges? 
+- What is the trend in last 3 years?
 - Which States and Hospitals charge the most? etc.
 
 
