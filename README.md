@@ -12,6 +12,8 @@ For this project I use Medicare Provider Utilization and Payment Data for more t
 - What is the trend in last 3 years?
 - Which States and Hospitals charge the most? etc.
 
+![this screenshot](../books/download.png)
+
 
 For more details code can be found here [GitHub Flavored Markdown](https://github.com/nataberishvili/k_means_clustering_R_medicare).
 
