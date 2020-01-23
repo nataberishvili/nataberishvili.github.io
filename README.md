@@ -13,7 +13,7 @@ Wome questions I want to answer
 - What is the trend in last 3 years?
 - Which States and Hospitals charge the most? etc.
 
-![natkaaa5](https://user-images.githubusercontent.com/50959111/72954905-1071ad80-3d68-11ea-85aa-8a1ebc4840cf.png) <img src="https://github.com/nataberishvili/images/blob/master/2015.png" width = 300>
+![natkaaa5](https://user-images.githubusercontent.com/50959111/72954905-1071ad80-3d68-11ea-85aa-8a1ebc4840cf.png) <img src="https://github.com/nataberishvili/images/blob/master/2015.png" width = 250>
 
 
 
