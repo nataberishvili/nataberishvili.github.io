@@ -13,7 +13,7 @@ Wome questions I want to answer
 - What is the trend in last 3 years?
 - Which States and Hospitals charge the most? etc.
 
-![plots](https://user-images.githubusercontent.com/50959111/72954323-f8992a00-3d65-11ea-9274-afed249c88ef.png)
+![natkaaa5](https://user-images.githubusercontent.com/50959111/72954905-1071ad80-3d68-11ea-85aa-8a1ebc4840cf.png)
 
 
 For more details code can be found here [GitHub Flavored Markdown](https://github.com/nataberishvili/k_means_clustering_R_medicare).
