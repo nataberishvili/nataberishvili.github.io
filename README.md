@@ -18,8 +18,8 @@ Wome questions I want to answer
 <image src="nataberishvili/images/blob/master/natako.png">
 
 
-For more details code can be found here [GitHub Flavored Markdown](https://github.com/nataberishvili/k_means_clustering_R_medicare).
-![](images/natako.png)
+For more details code can be found here [GitHub Flavored Markdown](https://github.com/nataberishvili/Exploratory_data_analysis_medicarehttps://github.com/nataberishvili/Exploratory_data_analysis_medicare).
+
 
 ### Predicting Loan Default - Binary Classification
 
