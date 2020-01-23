@@ -15,7 +15,7 @@ Wome questions I want to answer
 
 ![natkaaa5](https://user-images.githubusercontent.com/50959111/72954905-1071ad80-3d68-11ea-85aa-8a1ebc4840cf.png)
 
-<image src="images/natako.png">
+<image src="nataberishvili/images/natako.png">
 
 
 For more details code can be found here [GitHub Flavored Markdown](https://github.com/nataberishvili/k_means_clustering_R_medicare).
