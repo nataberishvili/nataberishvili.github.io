@@ -17,6 +17,7 @@ Wome questions I want to answer
 
 
 For more details code can be found here [GitHub Flavored Markdown](https://github.com/nataberishvili/k_means_clustering_R_medicare).
+![](images/natako.png)
 
 ### Predicting Loan Default - Binary Classification
 
