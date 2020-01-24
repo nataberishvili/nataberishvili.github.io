@@ -5,16 +5,22 @@ This portfolio is a collection of notebooks which I created for data analysis an
 
 ### World HAPPINESS Report 2019 - Data Visualization with R
 
-![happy](https://user-images.githubusercontent.com/50959111/73110534-bc380c00-3ed4-11ea-9d0b-7fd4750917f4.png)
-![unhappy](https://user-images.githubusercontent.com/50959111/73110537-bd693900-3ed4-11ea-8c72-2417b360f29f.png)
-![download](https://user-images.githubusercontent.com/50959111/73110538-bf32fc80-3ed4-11ea-8901-6d420b80366c.png)
-
 
 
 <img src="https://github.com/nataberishvili/images/blob/master/unhappy.png" width = 250>
 <img src="https://github.com/nataberishvili/images/blob/master/happy.png" width = 250>
 <img src="https://github.com/nataberishvili/images/blob/master/orive.png" width = 250>
-
+<div class="row">
+  <div class="column">
+    <img src="https://github.com/nataberishvili/images/blob/master/unhappy.png" width = 250>
+  </div>
+  <div class="column">
+    <img src="https://github.com/nataberishvili/images/blob/master/happy.png" width = 250>
+  </div>
+  <div class="column">
+    <img src="https://github.com/nataberishvili/images/blob/master/orive.png" width = 250>
+  </div>
+</div>
 
 ### Exploratory Data Analysis - Medicare
 
