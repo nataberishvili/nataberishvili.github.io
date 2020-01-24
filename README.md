@@ -7,20 +7,7 @@ This portfolio is a collection of notebooks which I created for data analysis an
 
 
 
-<img src="https://github.com/nataberishvili/images/blob/master/unhappy.png" width = 250>
-<img src="https://github.com/nataberishvili/images/blob/master/happy.png" width = 250>
-<img src="https://github.com/nataberishvili/images/blob/master/orive.png" width = 250>
-<div class="row">
-  <div class="column">
-    <img src="https://github.com/nataberishvili/images/blob/master/unhappy.png" width = 250>
-  </div>
-  <div class="column">
-    <img src="https://github.com/nataberishvili/images/blob/master/happy.png" width = 250>
-  </div>
-  <div class="column">
-    <img src="https://github.com/nataberishvili/images/blob/master/orive.png" width = 250>
-  </div>
-</div>
+<img src="https://github.com/nataberishvili/images/blob/master/unhappy.png" width = 250> <img src="https://github.com/nataberishvili/images/blob/master/happy.png" width = 250> <img src="https://github.com/nataberishvili/images/blob/master/orive.png" width = 250>
 
 ### Exploratory Data Analysis - Medicare
 
