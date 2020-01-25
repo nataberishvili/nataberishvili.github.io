@@ -8,8 +8,8 @@ This portfolio is a collection of notebooks which I created for data analysis an
 The data was scraped from wikipedia https://en.wikipedia.org/wiki/World_Happiness_Report
 The 2019 report features the happiness score averaged over the years 2016-2018. As per the 2019 Happiness Index, Finland is the happiest country in the world. Denmark, Norway, Iceland and Netherlands hold the next top positions
 
-<img src="https://github.com/nataberishvili/images/blob/master/happy.png" width = 250><img src="https://github.com/nataberishvili/images/blob/master/bothhh.png" width = 400>
-<img src="https://github.com/nataberishvili/images/blob/master/unhappy.png" width = 250>
+<img src="https://github.com/nataberishvili/images/blob/master/happy.png" width = 250>
+<img src="https://github.com/nataberishvili/images/blob/master/unhappy.png" width = 250><img src="https://github.com/nataberishvili/images/blob/master/bothhh.png" width = 400>
 
 
 ### Exploratory Data Analysis - Medicare
