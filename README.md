@@ -10,6 +10,10 @@ The 2019 report features the happiness score averaged over the years 2016-2018. 
 
 ![download (7)](https://user-images.githubusercontent.com/50959111/73115842-2c0cbd80-3efa-11ea-95f7-991569a2cfb2.png)
 
+For more details code can be found here [GitHub Flavored Markdown](https://github.com/nataberishvili/happiness_data_visualization_r).
+
+
+
 ### Exploratory Data Analysis - Medicare
 
 For this project I use Medicare Provider Utilization and Payment Data for more than 3,000 U.S. hospitals that receive Medicare paments. I explore and visualize data to make comparisons between the individual hospital-level charges and payments within local markets, and nationwide. 
@@ -25,7 +29,7 @@ Questions I want to answer
 
 
 
-For more details code can be found here [GitHub Flavored Markdown](https://github.com/nataberishvili/Exploratory_data_analysis_medicarehttps://github.com/nataberishvili/Exploratory_data_analysis_medicare).
+For more details code can be found here [GitHub Flavored Markdown](https://github.com/nataberishvili/Exploratory_data_analysis_medicare).
 
 
 ### Predicting Loan Default - Binary Classification
