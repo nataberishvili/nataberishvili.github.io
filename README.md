@@ -25,7 +25,7 @@ Questions I want to answer
 - Which States and Hospitals charge the most? etc.
 
 ![natkaaa5](https://user-images.githubusercontent.com/50959111/72954905-1071ad80-3d68-11ea-85aa-8a1ebc4840cf.png) 
-<img src="https://github.com/nataberishvili/images/blob/master/2015.png" width = 250>
+
 
 
 
