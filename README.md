@@ -3,10 +3,10 @@
 This portfolio is a collection of notebooks which I created for data analysis and machine learning projects for academic, self learning, and hobby purposes.
 
 
-### Happiness Report - Data Visualization with R
+### Happiness Around the World - Data Visualization with R
 
-The data was scraped from wikipedia https://en.wikipedia.org/wiki/World_Happiness_Report
-The 2019 report features the happiness score averaged over the years 2016-2018. As per the 2019 Happiness Index, Finland is the happiest country in the world. Denmark, Norway, Iceland and Netherlands hold the next top positions
+The data was scraped from wikipedia [link] (https://en.wikipedia.org/wiki/World_Happiness_Report).
+The World Happiness Report is an annual publication of the United Nations Sustainable Development Solutions Network. Happiness is explained by 6 factors. As per the 2019 Happiness Index, Finland is the happiest country in the world.
 
 ![download (36)](https://user-images.githubusercontent.com/50959111/73236404-41832100-4160-11ea-9239-19a223a4ea5b.png)
 
