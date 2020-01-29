@@ -8,7 +8,7 @@ This portfolio is a collection of notebooks which I created for data analysis an
 The data was scraped from the [wikipedia](https://en.wikipedia.org/wiki/World_Happiness_Report).
 The World Happiness Report is an annual publication of the United Nations Sustainable Development Solutions Network. Happiness is explained by 6 factors. As per the 2019 Happiness Index, Finland is the happiest country in the world.
 
-![download (41)](https://user-images.githubusercontent.com/50959111/73304044-80a78580-41e5-11ea-81cd-5a9ea8bec9c9.png)
+![download (48)](https://user-images.githubusercontent.com/50959111/73333421-b8d7b400-4237-11ea-8150-c00367187c86.png)
 
 
 
