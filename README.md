@@ -11,8 +11,6 @@ The World Happiness Report is an annual publication of the United Nations Sustai
 ![download (41)](https://user-images.githubusercontent.com/50959111/73304044-80a78580-41e5-11ea-81cd-5a9ea8bec9c9.png)
 
 
-![download (47)](https://user-images.githubusercontent.com/50959111/73331436-c7bb6800-4231-11ea-86e2-e9364b140928.png)
-
 
 For more details code can be found here [GitHub Flavored Markdown](https://github.com/nataberishvili/happiness_data_visualization_r).
 
