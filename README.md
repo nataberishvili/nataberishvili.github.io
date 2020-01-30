@@ -10,10 +10,7 @@ The World Happiness Report is an annual publication of the United Nations Sustai
 
 ![download (48)](https://user-images.githubusercontent.com/50959111/73333421-b8d7b400-4237-11ea-8150-c00367187c86.png)
 
-![download (48)](file:///C:/Users/natab/Desktop/berishviliplotly.html)
-
-file:///C:/Users/natab/Desktop/berishviliplotly.html
-
+https://plot.ly/~nataberishvili/1/#/plot
 
 
 
