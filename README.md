@@ -12,6 +12,8 @@ The World Happiness Report is an annual publication of the United Nations Sustai
 
 ![download (48)](file:///C:/Users/natab/Desktop/berishviliplotly.html)
 
+file:///C:/Users/natab/Desktop/berishviliplotly.html
+
 
 
 
