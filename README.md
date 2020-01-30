@@ -12,7 +12,7 @@ The World Happiness Report is an annual publication of the United Nations Sustai
 
 https://plot.ly/~nataberishvili/1/#/plot
 
-
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plot.ly/~nataberishvili/1/#/plot" height="525" width="100%"></iframe>
 
 For more details code can be found here [GitHub Flavored Markdown](https://github.com/nataberishvili/happiness_data_visualization_r).
 
