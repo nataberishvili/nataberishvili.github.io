@@ -17,6 +17,7 @@ Plotly
 
 For more details code can be found here [GitHub Flavored Markdown](https://github.com/nataberishvili/happiness_data_visualization_r).
 
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plot.ly/~nataberishvili/9/#/.embed" height="525" width="100%"></iframe>
 
 
 ### Exploratory Data Analysis - Medicare
