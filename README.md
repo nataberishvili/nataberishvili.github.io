@@ -5,6 +5,7 @@ This portfolio is a collection of notebooks which I created for data analysis an
 
 ### Happiness Around the World - Data Visualization with R
 
+
 The data was scraped from the [wikipedia](https://en.wikipedia.org/wiki/World_Happiness_Report).
 The World Happiness Report is an annual publication of the United Nations Sustainable Development Solutions Network. Happiness is explained by 6 factors. As per the 2019 Happiness Index, Finland is the happiest country in the world.
 
@@ -22,6 +23,7 @@ For more details code can be found here [GitHub Flavored Markdown](https://githu
 
 ### Exploratory Data Analysis - Medicare
 
+
 For this project I use Medicare Provider Utilization and Payment Data for more than 3,000 U.S. hospitals that receive Medicare paments. I explore and visualize data to make comparisons between the individual hospital-level charges and payments within local markets, and nationwide. 
 Questions I want to answer 
 
@@ -38,6 +40,7 @@ For more details code can be found here [GitHub Flavored Markdown](https://githu
 
 For this project I specifically focus less on feature engineering and use a small dataset. The main purpose is to build supervised machine learning models with h2o and experiment with hyperparameters.
 For more details code can be found here [GitHub Flavored Markdown](https://github.com/nataberishvili/h2o_rf_gbm_stacked_ensambles_loan_default/blob/master/h2o-rf-gbm-stacked.ipynb).
+
 
 ### Explain Loan Probability of Default With SHAP Values
 
