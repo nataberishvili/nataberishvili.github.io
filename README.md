@@ -49,6 +49,7 @@ For this project I specifically focus less on feature engineering and use a smal
 For more details code can be found here [GitHub Flavored Markdown](https://github.com/nataberishvili/h2o_rf_gbm_stacked_ensambles_loan_default/blob/master/h2o-rf-gbm-stacked.ipynb).
 
 
+
 ### Explain Loan Probability of Default With SHAP Values
 
 Some models are easy to interpret such as linear / logistic regression (weight on each feature, knowing the exact contribution and negative and positive interaction), single decision trees, some models are harder to interpret such as Ensemble models - it is hard to understand the role of each feature, it comes with "feature importance" but does not tell if feature affects decision positively or negatively
