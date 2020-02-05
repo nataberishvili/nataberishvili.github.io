@@ -14,7 +14,8 @@ The World Happiness Report is an annual publication of the United Nations Sustai
 
 Plotly
 
-<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plot.ly/~nataberishvili/11/#/plot.embed" height="400" width="100%"></iframe>
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plot.ly/~nataberishvili/11/#/.embed" height="400" width="100%"></iframe>
+
 
 
 
