@@ -50,4 +50,8 @@ For more details code can be found here [GitHub Flavored Markdown](https://githu
 ### Explain Loan Probability of Default With SHAP Values
 
 Some models are easy to interpret such as linear / logistic regression (weight on each feature, knowing the exact contribution and negative and positive interaction), single decision trees, some models are harder to interpret such as Ensemble models - it is hard to understand the role of each feature, it comes with "feature importance" but does not tell if feature affects decision positively or negatively
+
+![nata1](https://user-images.githubusercontent.com/50959111/74569212-dc913e80-4f47-11ea-9450-a24829f3991e.png)
+![nata2](https://user-images.githubusercontent.com/50959111/74569213-ddc26b80-4f47-11ea-9fdb-53ca3dce5d06.png)
+
 [GitHub Flavored Markdown](https://github.com/nataberishvili/explain_loan_probabiity_of_default/blob/master/SHAP_VALUES_NATA.ipynb) 
