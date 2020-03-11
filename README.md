@@ -20,6 +20,7 @@ The interactive version of map can be found [here](https://plot.ly/~nataberishvi
 Plotly
 
 
+
 For more details code can be found here [GitHub Flavored Markdown](https://github.com/nataberishvili/happiness_data_visualization_r).
 
 
