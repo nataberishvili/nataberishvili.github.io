@@ -1,6 +1,6 @@
 # Data Science Portfolio by Nata Berishvili
 
-This portfolio is a collection of notebooks which I created for data analysis and machine learning projects for academic, self learning, and hobby purposes.
+This portfolio is a collection of notebooks which I created for data analysis and machine learning projects for academic, self-learning, and hobby purposes.
 
 
 ### Happiness Around the World - Data Visualization with R
