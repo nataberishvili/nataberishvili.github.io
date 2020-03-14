@@ -11,8 +11,8 @@ The World Happiness Report is an annual publication of the United Nations Sustai
 
 ![hap-nat](https://user-images.githubusercontent.com/50959111/73878371-6c3c3c00-4828-11ea-8514-b867b21cad68.png)
 
-Plotly
-The interactive version of map can be found [here](https://plot.ly/~nataberishvili/9/?fbclid=IwAR1_SeAYlIe_Kc2gp-AlTnV7o7blV77eEiXuRSK81Ajs72JDrKVyxuMvLqI#/.embed).
+
+The interactive version of map (Plotly) can be found [here](https://plot.ly/~nataberishvili/9/?fbclid=IwAR1_SeAYlIe_Kc2gp-AlTnV7o7blV77eEiXuRSK81Ajs72JDrKVyxuMvLqI#/.embed).
 
 ![untitled](https://user-images.githubusercontent.com/50959111/76675545-d5823e00-6590-11ea-8dfc-ad4b8e35a98d.png)
 
