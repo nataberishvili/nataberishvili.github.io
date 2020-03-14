@@ -19,6 +19,8 @@ The interactive version of map can be found [here](https://plot.ly/~nataberishvi
 
 Plotly
 
+![untitled](https://user-images.githubusercontent.com/50959111/76675545-d5823e00-6590-11ea-8dfc-ad4b8e35a98d.png)
+
 
 
 For more details code can be found here [GitHub Flavored Markdown](https://github.com/nataberishvili/happiness_data_visualization_r).
