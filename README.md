@@ -49,3 +49,4 @@ Some models are easy to interpret such as linear / logistic regression (weight o
 ![nataaa](https://user-images.githubusercontent.com/50959111/74569704-07c85d80-4f49-11ea-8d6d-4f3c9fb3a999.png)
 
 [GitHub Flavored Markdown](https://github.com/nataberishvili/explain_loan_probabiity_of_default/blob/master/SHAP_VALUES_NATA.ipynb) 
+
