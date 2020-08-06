@@ -8,12 +8,12 @@ Implementing automated reporting infrastructure has enormous potential and benef
 
 Some advantages association with automated reporting approach:
 
-Increased productivity  
+**Increased productivity  
 Easy shareable  
 Decreased expenses  
 Greater control and consistency  
 The Decreased risk associated with human/manual error  
-Accurate and reliable results  
+Accurate and reliable results** 
 
 ![Screenshot (340)](https://user-images.githubusercontent.com/50959111/89591210-9ee6e180-d817-11ea-8e48-72b35b0d2377.png)
 
