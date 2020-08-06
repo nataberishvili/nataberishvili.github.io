@@ -2,7 +2,9 @@
 
 This portfolio is a collection of notebooks which I created for data analysis and machine learning projects.
 
-### Automated reporting dashboard
+### Automated & Interactive reporting dashboards (Rmarkdown & Flexdashboard Shiny)
+
+![Screenshot (340)](https://user-images.githubusercontent.com/50959111/89591210-9ee6e180-d817-11ea-8e48-72b35b0d2377.png)
 
 
 
