@@ -2,6 +2,9 @@
 
 This portfolio is a collection of notebooks which I created for data analysis and machine learning projects.
 
+### Automated reporting dashboard
+
+
 
 ### Happiness Around the World - Data Visualization with R
 
