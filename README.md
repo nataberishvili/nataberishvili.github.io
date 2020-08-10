@@ -17,7 +17,7 @@ Accurate and reliable results**
 
 ![Screenshot (340)](https://user-images.githubusercontent.com/50959111/89591210-9ee6e180-d817-11ea-8e48-72b35b0d2377.png)
 
-![Screenshot (349)](https://user-images.githubusercontent.com/50959111/89756186-c8ba3580-daaf-11ea-905c-499ae56a8d04.png) ![Screenshot (348)](https://user-images.githubusercontent.com/50959111/89756190-cbb52600-daaf-11ea-9d37-9fdec4387331.png)
+![Screenshot (349)](https://user-images.githubusercontent.com/50959111/89756186-c8ba3580-daaf-11ea-905c-499ae56a8d04.png)![Screenshot (348)](https://user-images.githubusercontent.com/50959111/89756190-cbb52600-daaf-11ea-9d37-9fdec4387331.png)
 
 
 ### Happiness Around the World - Data Visualization with R
