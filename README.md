@@ -68,6 +68,12 @@ For more details code can be found here [Github link](https://github.com/nataber
 For this project I specifically focus less on feature engineering and use a small dataset. The main purpose is to build supervised machine learning models with h2o and experiment with hyperparameters.
 For more details code can be found here [GitHub Flavored Markdown](https://github.com/nataberishvili/h2o_rf_gbm_stacked_ensambles_loan_default/blob/master/h2o-rf-gbm-stacked.ipynb).
 
+### Interactive Maps with R leaflet
+
+Interactive data visualization enhances exploratory data analysis and is a great way to engage with both technical and non-technical audiences. R's leaflet package is a powerful tool to create visually compelling interactive maps. In this post I will show how to create a choropleth map with leaflet. Choropleth maps show the level of variability within a region, using color.  
+
+I will build a choropleth map using data for the 2019 Novel Coronavirus published by Johns Hopkins University Center for Systems Science and Engineering. To make it easy to follow through the steps, we will work with state-level data.
+
 ![Recording-3](https://user-images.githubusercontent.com/50959111/94729665-03ae4c00-0330-11eb-8ace-69ed10a68c04.gif)
 
 ### Explain Loan Probability of Default With SHAP Values
