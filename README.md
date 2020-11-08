@@ -38,15 +38,13 @@ For more details code can be found here [GitHub Flavored Markdown](https://githu
 
 ### Fast transition between dplyr and data.table R  
 
-https://towardsdatascience.com/fast-transition-between-dplyr-and-data-table-c02d53cb769f?sk=867c769543de99379754f659575416a7
+![1_uqmUf85DCJDjaEFtxenQKQ](https://user-images.githubusercontent.com/50959111/98455766-e8aad500-2142-11eb-940d-c9b864cea443.jpeg)
+      Photo by Tima Miroshnichenko from Pexels
 
-In this post I compare the syntax of R's two most powerful data manipulation libraries: dplyr and data.table. I am not here to advocate one package or the other. However, while working on a project with unusually large datasets, my preferred package became data.table, for speed and memory efficiency. I took a legacy project in dplyr and recreated it in data.table. I will show the comparison of syntax and how to translate from dplyr to data.table or vice versa.   
 
-Data.table uses shorter syntax than dplyr but is often more nuanced and complex. dplyr use a pipe operator, which is more intuitive for beginners to read and debug. Moreover, many other libraries use pipe operators, such as ggplot2 and tidyr. While data.table and dplyr are both widely used in the R community, dplyr is used more broadly and thus offers more opportunities for collaboration.   
-Are memory and speed important? when building complex reports and dashboards, and especially when working with very large datasets, data.table has distinct advantages.
-It is up to you which library to use for your analysis!
+In this post, I compare the syntax of R’s two most powerful data manipulation libraries: dplyr and data.table. I am not here to advocate any package. However, while working on a project with unusually large datasets, my preferred package became data.table, for speed and memory efficiency. I took a legacy project in dplyr and recreated it in data.table. I will show the comparison of syntax and how to translate from dplyr to data.table and vice versa.
 
-For more details code can be found here [Github link](https://github.com/nataberishvili/dplyr-datatable).
+Article can be find here [Medium link](https://towardsdatascience.com/fast-transition-between-dplyr-and-data-table-c02d53cb769f?sk=867c769543de99379754f659575416a7).
 
 
 
