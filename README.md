@@ -58,7 +58,7 @@ The interactive version of map (Plotly) can be found [here](https://plot.ly/~nat
 ![hap-nat](https://user-images.githubusercontent.com/50959111/73878371-6c3c3c00-4828-11ea-8514-b867b21cad68.png)
 
 
-![untitled](https://user-images.githubusercontent.com/50959111/76675545-d5823e00-6590-11ea-8dfc-ad4b8e35a98d.png)
+
 
 For more details code can be found here [GitHub Flavored Markdown](https://github.com/nataberishvili/happiness_data_visualization_r).
 
