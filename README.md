@@ -39,7 +39,7 @@ For more details code can be found here [GitHub Flavored Markdown](https://githu
 ### Fast transition between dplyr and data.table R  
 
 ![1_uqmUf85DCJDjaEFtxenQKQ](https://user-images.githubusercontent.com/50959111/98455766-e8aad500-2142-11eb-940d-c9b864cea443.jpeg)
-      Photo by Tima Miroshnichenko from Pexels
+                                               Photo by Tima Miroshnichenko from Pexels
 
 
 In this post, I compare the syntax of R’s two most powerful data manipulation libraries: dplyr and data.table. I am not here to advocate any package. However, while working on a project with unusually large datasets, my preferred package became data.table, for speed and memory efficiency. I took a legacy project in dplyr and recreated it in data.table. I will show the comparison of syntax and how to translate from dplyr to data.table and vice versa.
