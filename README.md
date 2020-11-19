@@ -15,7 +15,7 @@ Greater control and consistency
 The Decreased risk associated with human/manual error  
 Accurate and reliable results** 
 
- [Shiny app Group project DS consulting](https://nataberishvili.shinyapps.io/dsconsulting/#section-google-trends).
+ 
 
 ![Screenshot (365)](https://user-images.githubusercontent.com/50959111/89877474-2755e100-db8e-11ea-8a98-e0315edf21cd.png)![Screenshot (367)](https://user-images.githubusercontent.com/50959111/89877488-2a50d180-db8e-11ea-81d9-40e28913aefb.png)
 
