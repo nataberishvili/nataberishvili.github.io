@@ -30,9 +30,7 @@ Some advantages associated with the automated reporting approach:
 
 ![INTERACTIVED](https://user-images.githubusercontent.com/50959111/104055992-b3137e00-51bd-11eb-9e55-699d0d50da01.gif)
 
-Interactive dashboards empower users to gain valuable insight into key metrics and make data-driven decisions. Interactivity helps optimize the use of dashboard space and updates visualizations automatically as the user changes inputs.
-Interactive dashboards with R (Flexdashboard + Shiny)
-Flexdashboard is an R markdown file, which can be either static or dynamic. By combining flexdashboard with Shiny, you can write dynamic web applications without any knowledge of HTML, CSS, or JavaScript, using only R and R markdown.
+Interactive dashboards empower users to gain valuable insight into key metrics and make data-driven decisions. Interactivity helps optimize the use of dashboard space and updates visualizations automatically as the user changes inputs. Flexdashboard is an R markdown file, which can be either static or dynamic. By combining flexdashboard with Shiny, you can write dynamic web applications without any knowledge of HTML, CSS, or JavaScript, using only R and R markdown.
 
 Detailed post and brief tutorial is avaialble on my [Medium](https://towardsdatascience.com/create-an-interactive-dashboard-with-shiny-flexdashboard-and-plotly-b1f025aebc9c?sk=a98219944d59b6952c5bb09b324bc433) 
 
