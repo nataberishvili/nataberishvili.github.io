@@ -52,7 +52,7 @@ Detailed post and brief tutorial is avaialble on my [Medium](https://towardsdata
 
 
 There are several ways to add CSS styling to Shiny - Flexdashboar.  In this project, I am using CSS code chunks to change the layout and different components of the dashboard. (shape, color, font, etc.) Even minor changes with CSS can make our dashboard look more polished and elegant.  
-For more details code can be found here [GitHub](https://github.com/nataberishvili/some-css-for-shiny-value-box).
+For more details code can be found on my [GitHub](https://github.com/nataberishvili/some-css-for-shiny-value-box).
 
 
 ### Exploratory Data Analysis - Medicare
