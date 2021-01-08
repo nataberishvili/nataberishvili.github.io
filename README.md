@@ -4,15 +4,14 @@ This portfolio is a collection of notebooks which I created for data analysis an
 
 ### Automated & Interactive reporting dashboards (Rmarkdown & Flexdashboard Shiny)
 
-Implementing automated reporting infrastructure has enormous potential and benefits. It can be applied to all parts of a business, from marketing and sales to fulfillment and customer services. Automated reports will significantly decrease the timeline, combine data from different resources and create reports within minutes.
+Implementing automated reporting infrastructure has enormous potential and benefits. It can be applied to all parts of a business, from marketing and sales to fulfillment and customer services. Automated reports will significantly decrease the timeline, combine data from different resources, and create reports within minutes.
+Some advantages associated with the automated reporting approach:
 
-Some advantages association with automated reporting approach:
-
-* Increased productivity  
-* Easy shareable  
-* Decreased expenses  
-* Greater control and consistency  
-* The Decreased risk associated with human/manual error  
+* Increased productivity  
+* Easy shareable  
+* Decreased expenses  
+* Greater control and consistency 
+* The Decreased risk associated with human/manual error  
 * Accurate and reliable results
 
  
