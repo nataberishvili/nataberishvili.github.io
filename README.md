@@ -17,7 +17,7 @@ Accurate and reliable results**
 
  
 
-![Screenshot (365)](https://user-images.githubusercontent.com/50959111/89877474-2755e100-db8e-11ea-8a98-e0315edf21cd.png)![Screenshot (367)](https://user-images.githubusercontent.com/50959111/89877488-2a50d180-db8e-11ea-81d9-40e28913aefb.png)
+![ezgif-1-8c942b4de2e6](https://user-images.githubusercontent.com/50959111/104057570-5e253700-51c0-11eb-950c-35c261c4bd74.gif)
 
 
 ### Create an Interactive Dashboard with Shiny, Flexdashboard, and Plotly
