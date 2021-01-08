@@ -23,6 +23,7 @@ Accurate and reliable results**
 
 ![DASHBOARDCSS-img1](https://user-images.githubusercontent.com/50959111/104054121-80b45180-51ba-11eb-9518-a84bcf8257f6.png)
 
+For more details code can be found here [GitHub](https://github.com/nataberishvili/some-css-for-shiny-value-box).
 
 
 
