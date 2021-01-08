@@ -19,6 +19,18 @@ Accurate and reliable results**
 
 ![Screenshot (365)](https://user-images.githubusercontent.com/50959111/89877474-2755e100-db8e-11ea-8a98-e0315edf21cd.png)![Screenshot (367)](https://user-images.githubusercontent.com/50959111/89877488-2a50d180-db8e-11ea-81d9-40e28913aefb.png)
 
+
+### Create an Interactive Dashboard with Shiny, Flexdashboard, and Plotly
+
+![INTERACTIVED](https://user-images.githubusercontent.com/50959111/104055992-b3137e00-51bd-11eb-9e55-699d0d50da01.gif)
+
+Interactive dashboards empower users to gain valuable insight into key metrics and make data-driven decisions. Interactivity helps optimize the use of dashboard space and updates visualizations automatically as the user changes inputs.
+Interactive dashboards with R (Flexdashboard + Shiny)
+Flexdashboard is an R markdown file, which can be either static or dynamic. By combining flexdashboard with Shiny, you can write dynamic web applications without any knowledge of HTML, CSS, or JavaScript, using only R and R markdown.
+
+Detailed post and brief tutorial is avaialble on my [Medium](https://towardsdatascience.com/create-an-interactive-dashboard-with-shiny-flexdashboard-and-plotly-b1f025aebc9c?sk=a98219944d59b6952c5bb09b324bc433) 
+
+
 ### Sales Dashboard - Shiny, flexdashboard + CSS
 
 ![DASHBOARDCSS-img1](https://user-images.githubusercontent.com/50959111/104054121-80b45180-51ba-11eb-9518-a84bcf8257f6.png)
