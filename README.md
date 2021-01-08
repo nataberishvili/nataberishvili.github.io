@@ -19,6 +19,13 @@ Accurate and reliable results**
 
 ![Screenshot (365)](https://user-images.githubusercontent.com/50959111/89877474-2755e100-db8e-11ea-8a98-e0315edf21cd.png)![Screenshot (367)](https://user-images.githubusercontent.com/50959111/89877488-2a50d180-db8e-11ea-81d9-40e28913aefb.png)
 
+### Sales Dashboard - Shiny, flexdashboard + CSS
+
+![DASHBOARDCSS-img1](https://user-images.githubusercontent.com/50959111/104054121-80b45180-51ba-11eb-9518-a84bcf8257f6.png)
+
+
+
+
 
 ### Exploratory Data Analysis - Medicare
 
