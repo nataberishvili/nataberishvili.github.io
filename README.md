@@ -46,7 +46,7 @@ Detailed post and brief tutorial is avaialble on my [Medium](https://towardsdata
 
 
 
-### Sales Dashboard - Shiny, flexdashboard + CSS
+### Sales Dashboard - Shiny, Flexdashboard + CSS
 
 ![DASHBOARDCSS-img1](https://user-images.githubusercontent.com/50959111/104054121-80b45180-51ba-11eb-9518-a84bcf8257f6.png)
 
