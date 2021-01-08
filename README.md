@@ -20,6 +20,13 @@ Accurate and reliable results**
 ![ezgif-1-8c942b4de2e6](https://user-images.githubusercontent.com/50959111/104057570-5e253700-51c0-11eb-950c-35c261c4bd74.gif)
 
 
+
+
+
+
+
+
+
 ### Create an Interactive Dashboard with Shiny, Flexdashboard, and Plotly
 
 ![INTERACTIVED](https://user-images.githubusercontent.com/50959111/104055992-b3137e00-51bd-11eb-9e55-699d0d50da01.gif)
@@ -29,6 +36,15 @@ Interactive dashboards with R (Flexdashboard + Shiny)
 Flexdashboard is an R markdown file, which can be either static or dynamic. By combining flexdashboard with Shiny, you can write dynamic web applications without any knowledge of HTML, CSS, or JavaScript, using only R and R markdown.
 
 Detailed post and brief tutorial is avaialble on my [Medium](https://towardsdatascience.com/create-an-interactive-dashboard-with-shiny-flexdashboard-and-plotly-b1f025aebc9c?sk=a98219944d59b6952c5bb09b324bc433) 
+
+
+
+
+
+
+
+
+
 
 
 ### Sales Dashboard - Shiny, flexdashboard + CSS
@@ -54,6 +70,9 @@ Questions I want to answer
 
 
 For more details code can be found here [GitHub Flavored Markdown](https://github.com/nataberishvili/Exploratory_data_analysis_medicare).
+
+
+
 
 
 
