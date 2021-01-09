@@ -1,6 +1,3 @@
-title: Nata
-
-
 
 # Data Science Portfolio by Nata Berishvili
 
