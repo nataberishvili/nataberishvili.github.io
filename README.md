@@ -5,6 +5,9 @@ This portfolio is a collection of notebooks which I created for data analysis an
 
 ### Automated & Interactive reporting dashboards (Rmarkdown & Flexdashboard Shiny)
 
+![ezgif-1-8c942b4de2e6](https://user-images.githubusercontent.com/50959111/104057570-5e253700-51c0-11eb-950c-35c261c4bd74.gif)
+
+
 Implementing automated reporting infrastructure has enormous potential and benefits. It can be applied to all parts of a business, from marketing and sales to fulfillment and customer services. Automated reports will significantly decrease the timeline, combine data from different resources, and create reports within minutes.
 Some advantages associated with the automated reporting approach:
 
@@ -17,7 +20,6 @@ Some advantages associated with the automated reporting approach:
 
  
 
-![ezgif-1-8c942b4de2e6](https://user-images.githubusercontent.com/50959111/104057570-5e253700-51c0-11eb-950c-35c261c4bd74.gif)
 
 
 
