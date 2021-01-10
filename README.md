@@ -97,6 +97,8 @@ For more details code can be found here [GitHub Flavored Markdown](https://githu
 
 
 
+
+
 ### Predicting Loan Default - Binary Classification
 
 The main purpose of this project is to build supervised machine learning models with h2o and experiment with hyperparameters. (Python)
