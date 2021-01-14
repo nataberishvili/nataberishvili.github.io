@@ -50,7 +50,8 @@ Detailed post and brief tutorial is avaialble on my [Medium](https://towardsdata
 
 ### Interactive Sales Dashboard - with Shiny, Flexdashboard, and CSS tweaks
 
-![dash img](https://user-images.githubusercontent.com/50959111/104536885-ed7a8200-55e6-11eb-8f30-c327ce2d026a.png)
+![dashboardsales](https://user-images.githubusercontent.com/50959111/104539965-94ade800-55ec-11eb-9fcb-3131923016f8.png)
+
 
 
 
