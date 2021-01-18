@@ -49,9 +49,9 @@ Detailed post and brief tutorial is avaialble on my [Medium](https://towardsdata
 
 
 
-### Interactive Sales Dashboard - with Shiny, Flexdashboard, and CSS tweaks
+### Sales Reporting Dashboard - with Shiny, Flexdashboard, and CSS
 
-![dashboardsales](https://user-images.githubusercontent.com/50959111/104539965-94ade800-55ec-11eb-9fcb-3131923016f8.png)
+![sales dashboard](https://user-images.githubusercontent.com/50959111/104865118-224d4880-5909-11eb-96ed-ee69a2586acd.gif)
 
 
 
