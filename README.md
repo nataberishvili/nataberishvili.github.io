@@ -28,9 +28,6 @@ Some advantages associated with the automated reporting approach:
 
 
 
-
-
-
 ### Create an Interactive Dashboard with Shiny, Flexdashboard, and Plotly
 
 ![INTERACTIVED](https://user-images.githubusercontent.com/50959111/104055992-b3137e00-51bd-11eb-9e55-699d0d50da01.gif)
