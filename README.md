@@ -8,22 +8,16 @@ This portfolio is a collection of notebooks which I created for data analysis an
 
 ![sales-dashboard-untitled-gif](https://user-images.githubusercontent.com/50959111/105636336-ed278580-5e35-11eb-81e6-4348cd9f1de5.gif)
 
-
 Implementing automated reporting infrastructure has enormous potential and benefits. It can be applied to all parts of a business, from marketing and sales to fulfillment and customer services. Automated reports will significantly decrease the timeline, combine data from different resources, and create reports within minutes.
 Some advantages associated with the automated reporting approach:
-
-
-* Easy to share   
+  
 * Decreased expenses  
 * Reduced time
 * Greater control and consistency 
 * Decreased risk associated with human/manual error  
 * Accurate and reliable results
 
-There are several ways to add CSS styling to Shiny - Flexdashboard.  In this project, I am using CSS code chunks to change the layout and different components of the dashboard. (shape, color, font, etc.) Even minor changes with CSS can make our dashboard look more polished and elegant. 
-
- 
-App is available on this [link](https://nataberishvili.shinyapps.io/sales-dashboard/)
+Sales interactive dashboard help us to drill-down the sales data, quickly identify trends, monitor the changes, and make timely strategic decisions. App is available on this [link](https://nataberishvili.shinyapps.io/sales-dashboard/)
 
 
 
