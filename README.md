@@ -4,23 +4,26 @@
 This portfolio is a collection of notebooks which I created for data analysis and machine learning projects.
 
 
-### Automated & Interactive reporting dashboards (Rmarkdown & Flexdashboard Shiny)
+### Automated & Interactive reporting Infrastructure (R Shiny, flexdashboard, CSS)
 
-![ezgif-1-8c942b4de2e6](https://user-images.githubusercontent.com/50959111/104057570-5e253700-51c0-11eb-950c-35c261c4bd74.gif)
+![sales-dashboard-untitled-gif](https://user-images.githubusercontent.com/50959111/105636336-ed278580-5e35-11eb-81e6-4348cd9f1de5.gif)
 
 
 Implementing automated reporting infrastructure has enormous potential and benefits. It can be applied to all parts of a business, from marketing and sales to fulfillment and customer services. Automated reports will significantly decrease the timeline, combine data from different resources, and create reports within minutes.
 Some advantages associated with the automated reporting approach:
 
-* Increased productivity  
-* Easy shareable  
+
+* Easy to share   
 * Decreased expenses  
+* Reduced time
 * Greater control and consistency 
-* The Decreased risk associated with human/manual error  
+* Decreased risk associated with human/manual error  
 * Accurate and reliable results
 
- 
+There are several ways to add CSS styling to Shiny - Flexdashboard.  In this project, I am using CSS code chunks to change the layout and different components of the dashboard. (shape, color, font, etc.) Even minor changes with CSS can make our dashboard look more polished and elegant. 
 
+ 
+App is available on this [link](https://nataberishvili.shinyapps.io/sales-dashboard/)
 
 
 
@@ -42,15 +45,6 @@ Detailed post and brief tutorial is avaialble on my [Medium](https://towardsdata
 
 
 
-### Sales Reporting Dashboard - with Shiny, Flexdashboard, and CSS
-
-![sales dashboard](https://user-images.githubusercontent.com/50959111/104865118-224d4880-5909-11eb-96ed-ee69a2586acd.gif)
-
-
-
-
-There are several ways to add CSS styling to Shiny - Flexdashboard.  In this project, I am using CSS code chunks to change the layout and different components of the dashboard. (shape, color, font, etc.) Even minor changes with CSS can make our dashboard look more polished and elegant.  
-For more details code can be found on my [GitHub](https://github.com/nataberishvili/some-css-for-shiny-value-box).
 
 
 ### Exploratory Data Analysis - Medicare
