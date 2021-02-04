@@ -35,7 +35,7 @@ Detailed post and brief tutorial is avaialble on my [Medium](https://towardsdata
 
 
 
-### App for Machine Learning - House Price Prediction with Linear Regression Regression 
+### App for Machine Learning - House Price Prediction with Linear Regression
 
 ![Screenshot (793)](https://user-images.githubusercontent.com/50959111/106964045-834d8c80-670f-11eb-8afc-c7f6eac381f6.png)
 
