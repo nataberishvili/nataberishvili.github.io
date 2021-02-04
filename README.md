@@ -35,7 +35,14 @@ Detailed post and brief tutorial is avaialble on my [Medium](https://towardsdata
 
 
 
+### App for Machine Learning - House Price Prediction with Regression Analysis 
 
+[link](https://nataberishvili.shinyapps.io/experiment/)
+
+* Choose Independend Variables for Linear Regression
+* Train the Model
+* Visualize Predictions (Actual numbers vs Predicted numbers)
+* Download Predictions
 
 
 
