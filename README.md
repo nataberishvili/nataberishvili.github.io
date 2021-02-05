@@ -43,7 +43,7 @@ Detailed post and brief tutorial is avaialble on my [Medium](https://towardsdata
 App is available on the following [link](https://nataberishvili.shinyapps.io/experiment/?_ga=2.23297273.257749571.1612459847-307122735.1584651229)
 (under development)
 
-* Choose Independend Variables
+* Choose Independent Variables
 * Train the Model
 * Visualize Predictions (Actual numbers vs Predicted numbers)
 * Visualize Residuals
