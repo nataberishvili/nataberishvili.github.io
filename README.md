@@ -24,6 +24,7 @@ Sales interactive dashboard help us to drill-down the sales data, quickly identi
 
 ### Create an Interactive Dashboard with Shiny, Flexdashboard, and Plotly
 
+
 ![INTERACTIVED](https://user-images.githubusercontent.com/50959111/104055992-b3137e00-51bd-11eb-9e55-699d0d50da01.gif)
 
 Interactive dashboards empower users to gain valuable insight into key metrics and make data-driven decisions. Interactivity helps optimize the use of dashboard space and updates visualizations automatically as the user changes inputs. Flexdashboard is an R markdown file, which can be either static or dynamic. By combining flexdashboard with Shiny, you can write dynamic web applications without any knowledge of HTML, CSS, or JavaScript, using only R and R markdown.
